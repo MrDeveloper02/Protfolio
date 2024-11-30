@@ -149,6 +149,11 @@ html,body{
 
 
 }
+.content a{
+    text-decoration: none;
+    color: #888;
+}
+
 #about{
     background-color: black;
     padding: 10vw 10vw;
